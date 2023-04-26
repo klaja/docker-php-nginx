@@ -21,7 +21,9 @@ RUN apk add --no-cache \
   php81-opcache \
   php81-openssl \
   php81-phar \
+  php81-pdo_mysql \
   php81-session \
+  php81-simplexml \
   php81-xml \
   php81-xmlreader \
   supervisor
